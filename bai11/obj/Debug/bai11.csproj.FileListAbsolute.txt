@@ -1,0 +1,5 @@
+D:\HKI 2023-2024\LTUDT WINDOW\baitapcode\baitapc2\baitapc2\bai11\bin\Debug\bai11.exe.config
+D:\HKI 2023-2024\LTUDT WINDOW\baitapcode\baitapc2\baitapc2\bai11\bin\Debug\bai11.exe
+D:\HKI 2023-2024\LTUDT WINDOW\baitapcode\baitapc2\baitapc2\bai11\bin\Debug\bai11.pdb
+D:\HKI 2023-2024\LTUDT WINDOW\baitapcode\baitapc2\baitapc2\bai11\obj\Debug\bai11.exe
+D:\HKI 2023-2024\LTUDT WINDOW\baitapcode\baitapc2\baitapc2\bai11\obj\Debug\bai11.pdb

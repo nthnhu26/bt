@@ -1,0 +1,6 @@
+D:\HKI 2023-2024\LTUDT WINDOW\baitapcode\baitapc2\baitapc2\bai19\bin\Debug\bai19.exe.config
+D:\HKI 2023-2024\LTUDT WINDOW\baitapcode\baitapc2\baitapc2\bai19\bin\Debug\bai19.exe
+D:\HKI 2023-2024\LTUDT WINDOW\baitapcode\baitapc2\baitapc2\bai19\bin\Debug\bai19.pdb
+D:\HKI 2023-2024\LTUDT WINDOW\baitapcode\baitapc2\baitapc2\bai19\obj\Debug\bai19.csprojResolveAssemblyReference.cache
+D:\HKI 2023-2024\LTUDT WINDOW\baitapcode\baitapc2\baitapc2\bai19\obj\Debug\bai19.exe
+D:\HKI 2023-2024\LTUDT WINDOW\baitapcode\baitapc2\baitapc2\bai19\obj\Debug\bai19.pdb

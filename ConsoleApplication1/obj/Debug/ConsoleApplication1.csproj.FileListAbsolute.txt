@@ -1,0 +1,5 @@
+D:\HKI 2023-2024\LTUDT WINDOW\baitapcode\baitapc2\baitapc2\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+D:\HKI 2023-2024\LTUDT WINDOW\baitapcode\baitapc2\baitapc2\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+D:\HKI 2023-2024\LTUDT WINDOW\baitapcode\baitapc2\baitapc2\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+D:\HKI 2023-2024\LTUDT WINDOW\baitapcode\baitapc2\baitapc2\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+D:\HKI 2023-2024\LTUDT WINDOW\baitapcode\baitapc2\baitapc2\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
